@@ -38,6 +38,7 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+.class
 
 # Directories potentially created on remote AFP share
 .AppleDB
@@ -57,3 +58,4 @@ Temporary Items
 eshelloword-booter.iml
 testdb
 /.gradle/
+src/test/java/org/bboss/elasticsearchtest/mytest.class
